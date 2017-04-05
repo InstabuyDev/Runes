@@ -1,6 +1,9 @@
 
-<version: Vorbereitung>
+<version: 1.13>
 /data/Map001.json https://raw.githubusercontent.com/InstabuyDev/Runes/master/Map001.json
 /data/Map002.json https://raw.githubusercontent.com/InstabuyDev/Runes/master/Map002.json
 /data/Map003.json https://raw.githubusercontent.com/InstabuyDev/Runes/master/Map003.json
+/data/Skills.json https://raw.githubusercontent.com/InstabuyDev/Runes/master/Skills.json
+/data/States.json https://raw.githubusercontent.com/InstabuyDev/Runes/master/states.json
+/data/Items.json https://raw.githubusercontent.com/InstabuyDev/Runes/master/items.json
 <End of version>
