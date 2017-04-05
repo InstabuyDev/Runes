@@ -1,5 +1,5 @@
 
-<version: 1.12.1>
+<version: 1.121>
 /data/Map001.json https://raw.githubusercontent.com/InstabuyDev/Runes/master/Map001.json
 /data/Map002.json https://raw.githubusercontent.com/InstabuyDev/Runes/master/Map002.json
 /data/Map003.json https://raw.githubusercontent.com/InstabuyDev/Runes/master/Map003.json
